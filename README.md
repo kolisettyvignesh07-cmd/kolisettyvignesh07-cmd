@@ -17,4 +17,4 @@ I hope to learn more about artificial intelligence, coding, machine learning, an
 - GitHub Collaboration
 
 ## Connect With Me
-- LinkedIn: *(add your LinkedIn profile link here)
+- LinkedIn: *(https://www.linkedin.com/in/kolisetty-vignesh-466aa43ba?utm_source=share_via&utm_content=profile&utm_medium=member_android)
