@@ -1,4 +1,3 @@
-# Vignesh-repo
 # Hi, Kolisetty Vignesh..
 ## About Me
 - 🎓 Integrated M.Tech AI Student
