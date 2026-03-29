@@ -1,4 +1,4 @@
-# Hi, Kolisetty Vignesh..
+# Hey, Kolisetty Vignesh..
 ## About Me
 - 🎓 Integrated M.Tech AI Student
 - 🏫 VIT Bhopal University
